@@ -1,8 +1,3 @@
-Claro! Aqui está um **README simples**, porém **completo e claro**, perfeito para apresentar no trabalho ou no GitHub.
-Mantém todos os pontos importantes, mas sem enrolação.
-
----
-
 # ⚽ API de Futebol Cearense – CRUD + Supabase + Render
 
 Esta é uma API simples desenvolvida em **Node.js + Express**, utilizando **Supabase** como autenticação e banco de dados, e hospedada no **Render**.
