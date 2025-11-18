@@ -124,7 +124,7 @@ npm start
 
 ## 🌐 Deploy no Render
 
-1. Vá para **[https://render.com](https://render.com)**
+1. Vá para **[https://render.com](https://api-futebol-bk6l.onrender.com/)**
 2. Criar um novo **Web Service**
 3. Conectar o repositório do GitHub
 4. Build Command:
